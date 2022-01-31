@@ -1,0 +1,140 @@
+
+body{
+    background-color: #E5E5E5;
+}
+header h1{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.post{
+    width: 15cm;
+    background-color: white;
+    border: 1px solid #E5E5E5;
+    margin:auto;
+    border-radius: 5px;
+    margin-bottom: 30px;
+
+}
+.header-post{font-size: 18px;
+margin: 5px;
+font-family:Arial, Helvetica, sans-serif;
+display: flex;
+}
+.imagen img{
+    display:block;
+    width: 100%;
+}
+.fecha{
+    font-size: 15px;
+    color: grey;
+    margin-left: 10.5cm;
+    margin-top: 5px;   
+}
+.descripcion{
+    font-family:Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    margin-right: 10px;
+}
+.post2{
+    width: 15cm;
+    background-color: white;
+    border: 1px solid #E5E5E5;
+    margin:auto;
+    border-radius: 5px;
+    margin-bottom: 30px;
+
+}
+.header-post2{font-size: 18px;
+margin: 5px;
+font-family:Arial, Helvetica, sans-serif;
+display: flex;
+}
+.imagen2 img{
+    display:block;
+    width: 100%;
+}
+.fecha2{
+    font-size: 15px;
+    color: grey;
+    margin-left: 11.2cm;
+    margin-top: 5px;   
+}
+.descripcion2{
+    font-family:Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    margin-right: 4.5px;
+}
+.post3{
+    width: 15cm;
+    background-color: white;
+    border: 1px solid #E5E5E5;
+    margin:auto;
+    border-radius: 5px;
+    margin-bottom: 30px;
+
+}
+.header-post3{font-size: 18px;
+margin: 5px;
+font-family:Arial, Helvetica, sans-serif;
+display: flex;
+}
+.imagen3 img{
+    display:block;
+    width: 100%;
+}
+.fecha3{
+    font-size: 15px;
+    color: grey;
+    margin-left: 11.2cm;
+    margin-top: 5px;   
+}
+.descripcion3{
+    font-family:Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    margin-right: 4.5px;
+}
+.post4{
+    width: 15cm;
+    background-color: white;
+    border: 1px solid #E5E5E5;
+    margin:auto;
+    border-radius: 5px;
+    margin-bottom: 20px;
+
+}
+.header-post4{font-size: 18px;
+margin: 5px;
+font-family:Arial, Helvetica, sans-serif;
+display: flex;
+}
+.imagen4 img{
+    display:block;
+    width: 100%;
+}
+.fecha4{
+    font-size: 15px;
+    color: grey;
+    margin-left: 11.2cm;
+    margin-top: 5px;   
+}
+.descripcion4{
+    font-family:Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    margin-right: 4.5px;
+}
